@@ -1,0 +1,6 @@
+name: gui
+dependencies:
+  - python==3.8
+  - pip:
+    - nicegui
+    - plotly
