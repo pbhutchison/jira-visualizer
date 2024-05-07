@@ -7,6 +7,8 @@ def main():
         ui.label('CSS').style('color: #888; font-weight: bold')
         ui.label('Tailwind').classes('font-serif')
         ui.label('Quasar').classes('q-ml-xl')
+    dark = ui.dark_mode()
+    dark.enable()
     ui.run(port=6060)
 
 

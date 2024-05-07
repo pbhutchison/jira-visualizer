@@ -1,6 +1,6 @@
 # jira-visualizer
 
-Nicegui web tool that takes in REST API data, to create a project management dashboard.
+Nicegui web tool that uses Jira REST API data to create a project management dashboard.
 
 ## Dependencies
 
@@ -8,3 +8,5 @@ Nicegui web tool that takes in REST API data, to create a project management das
 ## Usage
 
 ## Contributing
+
+This repository follows the [https://google.github.io/styleguide/pyguide.html](Python Google Style Guide).
