@@ -1,3 +1,6 @@
+""" Module responsible for rendering the webpage.
+
+"""
 from nicegui import ui
 
 def main():
