@@ -4,3 +4,4 @@ dependencies:
   - pip:
     - nicegui
     - requests
+    - pylint
